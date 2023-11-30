@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4bd5341d4b10d9c429ca95e53a6dc9ac
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Handwriting Font Wnumbers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74c616cb47efc954b89e46e6c3f5e6bd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

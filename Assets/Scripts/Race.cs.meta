@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d50bb37d47f7f5240ae7a79d80a3acb0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - angerVFX: {instanceID: 0}
+  - pb: {instanceID: 0}
+  - bones: {fileID: 3947137394847380683, guid: 1b051b00f01b0274dae220bc29652f7b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
